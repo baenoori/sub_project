@@ -20,10 +20,10 @@
 
 <br>
 
-### 구현결과 
+## 구현결과 
 
-**PDF 업로드 O – Hugging face dataset + PDF 데이터 기반 답변**
+### PDF 업로드 O – Hugging face dataset + PDF 데이터 기반 답변
 <img width="1320" alt="Image" src="https://github.com/user-attachments/assets/b9154862-1b01-45cb-9995-b9c0697f4754" />
 
-**PDF 업로드 X – Hugging face dataset 기반 답변**
+### PDF 업로드 X – Hugging face dataset 기반 답변
 <img width="1377" alt="Image" src="https://github.com/user-attachments/assets/ab891ebd-b330-45d1-999e-6ba0260a8f3a" />
