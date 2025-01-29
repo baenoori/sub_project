@@ -18,6 +18,10 @@
 - 생성된 답변은 OpenAI를 활용해 질문자의 원래 언어로 번역하여 출력
 - HuggingFace Dataset 기반 일반 지식 Q&A 뿐만 아니라 PDF 업로드 데이터를 포함한 문서 기반 Q&A 지원
 
+<br>
+
+### 구현결과 
+
 **PDF 업로드 O – Hugging face dataset + PDF 데이터 기반 답변**
 <img width="1320" alt="Image" src="https://github.com/user-attachments/assets/b9154862-1b01-45cb-9995-b9c0697f4754" />
 
